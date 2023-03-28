@@ -17,7 +17,6 @@
 - [SVT Text](https://texttv.nu/) - Swedish television's text-based news service
 - [Markets.sh News](https://markets.sh) - Financial news and market data in a simple text format
 - [Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
-- [CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
 - [Neuters.de](https://neuters.de) - German news site with a text-only format
 - [Axios](https://www.axios.com) - News website with a focus on brevity and clarity
 - [Skimfeed](https://skimfeed.com) - News aggregator with a minimal interface
