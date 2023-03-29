@@ -2,15 +2,23 @@
 
 ## Plain Text News Sites
 
+### General
+
 - [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
-- [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
-- [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
 - [SVT Text](https://texttv.nu/) - Swedish television's text-based news service
-- [Markets.sh News](https://markets.sh) - Financial news and market data in a simple text format
 - [Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
 - [CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
 - [Neuters.de](https://neuters.de) - Reuters text-only proxy
 - [NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
+
+### Financial
+
+- [Markets.sh News](https://markets.sh) - Financial news and market data in a simple text format
+
+### Sports
+
+- [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
+- [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
 
 ## News aggregators
 
