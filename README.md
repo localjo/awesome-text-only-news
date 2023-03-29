@@ -9,7 +9,6 @@
 ## Plain Text News Sites
 
 - [68k News](http://68k.news) - Headlines from various news sources in a simple text format
-- [CNN Lite](https://lite.cnn.com/en) - Lightweight version of CNN with top news stories
 - [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
 - [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
 - [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
