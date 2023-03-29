@@ -4,12 +4,12 @@
 
 ### General
 
-- [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
-- [SVT Text](https://texttv.nu/) - Swedish television's text-based news service
-- [Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
-- [CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
-- [Neuters.de](https://neuters.de) - Reuters text-only proxy
-- [NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
+- 🌐[Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
+- 🌐[Neuters.de](https://neuters.de) - Reuters text-only proxy
+- 🇨🇦[CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
+- 🇸🇪[SVT Text](https://texttv.nu/) - Swedish television's text-based news service
+- 🇺🇸[CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
+- 🇺🇸[NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
 
 ### Financial
 
