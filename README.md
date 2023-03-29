@@ -17,7 +17,9 @@
 
 ### Sports
 
+- [ESPN NFL Lite](http://www.espn.com/nfl/lite/scoreboard) - Text-only NFL scoreboard from ESPN
 - [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
+- [ESPN NCB Lite](http://www.espn.com/ncb/lite/scoreboard) - Text-only NCB scoreboard from ESPN
 - [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
 
 ## News aggregators
