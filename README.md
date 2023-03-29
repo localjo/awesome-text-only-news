@@ -1,11 +1,5 @@
 # Awesome Text Only News [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
-
-- [Plain Text News Sites](#plain-text-news-sites)
-- [Lightweight News Sites that are not Text Only](#lightweight-news-sites-that-are-not-text-only)
-- [Tools for Converting Webpages to Text](#tools-for-converting-webpages-to-text)
-
 ## Plain Text News Sites
 
 - [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
