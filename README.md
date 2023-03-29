@@ -6,6 +6,7 @@
 
 - 🌐[Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
 - 🌐[Neuters.de](https://neuters.de) - Reuters text-only proxy
+- 🌐[The Christian Science Monitor](https://www.csmonitor.com/text_edition) - international news organization based in Boston, Massachusetts
 - 🇨🇦[CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
 - 🇳🇱[NOS Lite](https://noslite.nl) - Dutch Broadcast Foundation
 - 🇸🇪[SVT Text](https://texttv.nu/) - Swedish television's text-based news service
