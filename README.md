@@ -8,7 +8,6 @@
 
 ## Plain Text News Sites
 
-- [68k News](http://68k.news) - Headlines from various news sources in a simple text format
 - [CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
 - [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
 - [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
@@ -17,8 +16,12 @@
 - [Wikipedia Current Events Portal](https://en.m.wikipedia.org/wiki/Portal:Current_events) - Current events summaries from Wikipedia
 - [CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
 - [Neuters.de](https://neuters.de) - Reuters text-only proxy
-- [Skimfeed](https://skimfeed.com) - News aggregator with a minimal interface
 - [NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
+
+## News aggregators
+
+- [68k News](http://68k.news) - Headlines from various news sources in a simple text format
+- [Skimfeed](https://skimfeed.com) - News aggregator with a minimal interface
 
 ## Lightweight News Sites that are not Text Only
 
