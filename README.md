@@ -9,6 +9,7 @@
 - 🇨🇦[CBC Lite](https://www.cbc.ca/lite/) - Canadian Broadcasting Corporation's lightweight news site
 - 🇳🇱[NOS Lite](https://noslite.nl) - Dutch Broadcast Foundation
 - 🇸🇪[SVT Text](https://texttv.nu/) - Swedish television's text-based news service
+- 🇬🇧[DailyMail](https://www.dailymail.co.uk/textbased/channel-561/index.html) - A British daily newspaper
 - 🇺🇸[CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
 - 🇺🇸[NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
 
