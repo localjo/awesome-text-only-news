@@ -31,6 +31,7 @@
 - [68k News](http://68k.news) - Headlines from various news sources in a simple text format
 - [Skimfeed](https://skimfeed.com) - News aggregator with a minimal interface
 - [The Brutalist Report](https://brutalist.report) - The day's headlines delivered to you without bullshit
+- [BizToc](https://biztoc.com/light) - Aggregated business news
 
 ## Lightweight News Sites that are not Text Only
 
