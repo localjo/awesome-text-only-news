@@ -15,10 +15,6 @@
 - 🇺🇸[CNN Lite](https://lite.cnn.com) - Lightweight version of CNN with top news stories
 - 🇺🇸[NPR Text-Only Version](https://text.npr.org) - Text-only version of NPR news
 
-### Financial
-
-- [Markets.sh News](https://markets.sh) - Financial news and market data in a simple text format
-
 ### Sports
 
 - [ESPN NFL Lite](http://www.espn.com/nfl/lite/scoreboard) - Text-only NFL scoreboard from ESPN
