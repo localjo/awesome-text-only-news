@@ -42,10 +42,7 @@
 - [Phil Gyford's daily edition of The Guardian](https://www.gyford.com/phil/writing/2018/11/24/guardian-daily/) - Daily email with The Guardian's content
 - [Thomson Reuters Foundation Trust](https://www.trust.org/) - News and analysis from the Thomson Reuters Foundation
 - [Context News](https://www.context.news) - News summaries with added context
-- [Axios](https://www.axios.com) - News website with a focus on brevity and clarity
 
 ## Tools for Converting Webpages to Text
 
 - [Txtify.it](https://txtify.it) - Converts web pages into plain text
-- [Teddit](https://teddit.net/r/worldnews) - Reddit's world news subreddit in a text-only format
-- [TextOnly](https://www.textonly.website) - Simplifies websites into a text-only format
